@@ -22,7 +22,7 @@ const Footer = () => {
 
         <LinkColumn>
           <LinkTitle style={{fontSize:'14px'}}>Whatsapp</LinkTitle>
-          <LinkItem href="https://wa.me/8651688561">8651688561</LinkItem>
+          <LinkItem href="https://wa.me/918651688561">8651688561</LinkItem>
         </LinkColumn>
 
       </LinkList>
